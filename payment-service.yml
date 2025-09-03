@@ -2,7 +2,7 @@
 
 #port
 server:
-  port: 8082
+  port: 8085
 
 # Eureka client config
 eureka:
